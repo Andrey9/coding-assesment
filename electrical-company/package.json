@@ -1,0 +1,16 @@
+{
+	"name": "electrical-company",
+	"version": "1.0.0",
+	"scripts": {
+		"lint-ts": "tsc -p tsconfig.json --noEmit"
+	},
+	"dependencies": {
+		"class-transformer": "^0.5.1",
+		"inversify": "^6.0.3",
+		"tctx": "^0.2.3"
+	},
+	"devDependencies": {
+		"@types/node": "^22.5.4",
+		"typescript": "^5.3.3"
+	}
+}
